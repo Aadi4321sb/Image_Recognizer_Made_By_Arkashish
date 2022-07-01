@@ -1,0 +1,29 @@
+
+
+.body_background{
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/12/10/13/background-2633962_960_720.jpg");
+     background-position: center;
+     background-size: cover;
+    
+}
+
+#header {
+
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+#name_objects{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+#camera  {
+    border-color: black;
+    border-radius: 2px;
+    background-color: lightskyblue;
+    border: 2px solid navy;
+}
